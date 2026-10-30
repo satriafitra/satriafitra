@@ -1,16 +1,16 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**satriafitra/satriafitra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  # Hi, I'm Satria Fitra!
 
-Here are some ideas to get you started:
+  I'm currently working on Frontend & Mobile Development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <p>
+    <a href="https://www.linkedin.com/in/satria-fitra-alamsyah/">LinkedIn</a> | 
+    <a href="https://www.instagram.com/satriafitra_/">Instagram</a>
+  </p>
+
+  <br>
+
+  <img src="https://github.com/user-attachments/assets/db3421d4-76d8-4a23-857b-f47bb2191af7" width="600" alt="Thorfinn Vinland Saga" />
+
+</div>
