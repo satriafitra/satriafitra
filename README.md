@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>Hi, I'm Satria Fitra</h1>
+  <h1>Nama Gua Kasa</h1>
   
   <p>Frontend & Mobile Developer</p>
 
