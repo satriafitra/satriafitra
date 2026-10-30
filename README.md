@@ -1,10 +1,7 @@
 <div align="center">
 
 # Nama Gua Kasa
-<sub><b>Frontend & Mobile Developer</b></sub>
-
-<br>
-
+<sub><b>Frontend & Mobile Developer</b></sub><br>
 <a href="https://www.linkedin.com/in/satria-fitra-alamsyah/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="24" alt="LinkedIn" /></a> <a href="https://www.instagram.com/satriafitra_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="24" alt="Instagram" /></a>
 
 <br>
