@@ -1,22 +1,15 @@
 <div align="center">
 
-### Nama Gua Kasa
-Frontend & Mobile Developer
+<h3>Nama Gua Kasa</h3>
+<p>Frontend & Mobile Developer</p>
+
+<a href="https://www.linkedin.com/in/satria-fitra-alamsyah/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="24" alt="LinkedIn" /></a> <a href="https://www.instagram.com/satriafitra_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="24" alt="Instagram" /></a>
 
 <br>
-
-<a href="https://www.linkedin.com/in/satria-fitra-alamsyah/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" alt="LinkedIn" /></a>
-<a href="https://www.instagram.com/satriafitra_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="25" alt="Instagram" /></a>
-
-<br><br>
 
 <img src="https://github.com/user-attachments/assets/db3421d4-76d8-4a23-857b-f47bb2191af7" width="460" alt="Thorfinn Vinland Saga" />
 
-<br>
-
-<sub><i>"I have no enemies. No one has any enemies."</i></sub>
-
-<br><br>
+<p><i>"I have no enemies. No one has any enemies."</i></p>
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="28" height="28"/> &nbsp;
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="28" height="28"/> &nbsp;
