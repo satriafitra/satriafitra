@@ -5,13 +5,8 @@
   <p>Frontend & Mobile Developer</p>
 
   <p>
-    <a href="https://www.linkedin.com/in/satria-fitra-alamsyah/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="28" alt="LinkedIn" />
-    </a>
-    &nbsp;
-    <a href="https://www.instagram.com/satriafitra_/" target="_blank">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28" alt="Instagram" />
-    </a>
+    <a href="https://www.linkedin.com/in/satria-fitra-alamsyah/" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="28" alt="LinkedIn" /></a>
+    <a href="https://www.instagram.com/satriafitra_/" target="_blank" style="text-decoration: none;"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28" alt="Instagram" style="margin-left: 6px;" /></a>
   </p>
 
   <img src="https://github.com/user-attachments/assets/db3421d4-76d8-4a23-857b-f47bb2191af7" width="560" alt="Thorfinn Vinland Saga" style="border-radius: 8px;" />
