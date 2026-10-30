@@ -1,10 +1,14 @@
 <div align="center">
 
 # Nama Gua Kasa
-<sub><b>Frontend & Mobile Developer</b></sub><br>
-<a href="https://www.linkedin.com/in/satria-fitra-alamsyah/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="24" alt="LinkedIn" /></a> <a href="https://www.instagram.com/satriafitra_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="24" alt="Instagram" /></a>
 
-<br>
+<p style="margin: 6px 0 10px 0;">Frontend & Mobile Developer</p>
+
+<p style="margin: 0 0 16px 0;">
+  <a href="https://www.linkedin.com/in/satria-fitra-alamsyah/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="24" alt="LinkedIn" /></a>
+  &nbsp;
+  <a href="https://www.instagram.com/satriafitra_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="24" alt="Instagram" /></a>
+</p>
 
 <img src="https://github.com/user-attachments/assets/db3421d4-76d8-4a23-857b-f47bb2191af7" width="460" alt="Thorfinn Vinland Saga" />
 
